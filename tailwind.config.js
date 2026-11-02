@@ -6,26 +6,34 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['Inter', 'Noto Sans Devanagari', 'Noto Sans Tamil', 'system-ui', '-apple-system', 'sans-serif'],
+      },
       colors: {
-        ivory: {
-          50: '#FDFBF7',
-          100: '#FAF7F0',
-          200: '#F4EFE6',
-          300: '#EADFCF',
+        teal: {
+          50: '#F0FDFA',
+          100: '#CCFBF1',
+          200: '#99F6E4',
+          300: '#5EEAD4',
+          400: '#2DD4BF',
+          500: '#14B8A6',
+          600: '#0D9488',
+          700: '#0F766E',
+          800: '#0A3B46',
+          900: '#062E38',
+          950: '#031E25',
         },
-        sand: {
-          50: '#FAF8F5',
-          100: '#F5F1EB',
-          200: '#EAE3D7',
-          300: '#DCD1C0',
-          400: '#C2B099',
-          500: '#9E886D',
-        },
-        navy: {
-          700: '#163A69',
-          800: '#0E294B',
-          900: '#0A1D37',
-          950: '#061325',
+        emerald: {
+          50: '#ECFDF5',
+          100: '#D1FAE5',
+          200: '#A7F3D0',
+          300: '#6EE7B7',
+          400: '#34D399',
+          500: '#10B981',
+          600: '#059669',
+          700: '#047857',
+          800: '#065F46',
+          900: '#064E3B',
         }
       }
     },
