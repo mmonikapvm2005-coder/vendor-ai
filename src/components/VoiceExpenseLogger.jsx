@@ -26,7 +26,7 @@ import { CATEGORY_PROFILES } from '../data/categoryData';
 // Multi-language UI dictionary for Voice Assistant
 const VOICE_TEXTS = {
   en: {
-    title: "VyaparMitra Voice Assistant",
+    title: "KamaiMitra Voice Assistant",
     subtitle: "Ask profit questions, tell sales & expenses, or log stock by speaking.",
     langBarLabel: "Choose Language / भाषा / மொழி:",
     salesLabel: "Today's Sales",
@@ -54,7 +54,7 @@ const VOICE_TEXTS = {
     expenseEntryHeader: "Expense Entry"
   },
   hi: {
-    title: "व्यापारमित्र वॉयस असिस्टेंट",
+    title: "कमाईमित्र वॉयस असिस्टेंट",
     subtitle: "बोलकर मुनाफ़ा पूछें, बिक्री और खर्चा दर्ज करें।",
     langBarLabel: "भाषा चुनें (Choose Language):",
     salesLabel: "आज की बिक्री",
@@ -82,7 +82,7 @@ const VOICE_TEXTS = {
     expenseEntryHeader: "खर्चा रिकॉर्ड"
   },
   ta: {
-    title: "வியாபார மித்ரா குரல் உதவியாளர்",
+    title: "காமாய் மித்ரா குரல் உதவியாளர்",
     subtitle: "பேசி லாபம் கணக்கிடுங்கள், விற்பனை & செலவு பதியுங்கள்.",
     langBarLabel: "மொழி தேர்வு (Choose Language):",
     salesLabel: "இன்றைய விற்பனை",

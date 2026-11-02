@@ -136,7 +136,7 @@ export default function SplashScreen({ onFinish }) {
     if (progress < 25) return "📡 Connecting to Azadpur & APMC live mandi auction sheets...";
     if (progress < 55) return "📊 Calibrating 5 stall trade profiles & daily micro-P&Ls...";
     if (progress < 85) return "🔊 Syncing 4G UPI Soundbox & Customer Self-Pay Ledger...";
-    return "✨ Welcome to VyaparMitra! Launching your stall workspace...";
+    return "✨ Welcome to KamaiMitra! Launching your stall workspace...";
   })();
 
   return (
@@ -206,7 +206,7 @@ export default function SplashScreen({ onFinish }) {
         {/* Brand Name Animation */}
         <div className="space-y-3 animate-splash-fade-up">
           <h1 className="text-5xl sm:text-7xl font-extrabold text-white tracking-tight leading-none drop-shadow-xl">
-            Vyapar<span className="text-emerald-400 font-extrabold">Mitra</span>
+            Kamai<span className="text-emerald-400 font-extrabold">Mitra</span>
           </h1>
 
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/10 border border-white/15 text-blue-200 text-xs sm:text-sm font-semibold backdrop-blur-md shadow-xs">

@@ -445,7 +445,7 @@ export default function App() {
             <div>
               <div className="flex items-center gap-2 flex-wrap">
                 <span className="text-[28px] font-extrabold text-[#062E38] tracking-tight leading-none">
-                  Vyapar<span className="text-emerald-600 font-extrabold">Mitra</span>
+                  Kamai<span className="text-emerald-600 font-extrabold">Mitra</span>
                 </span>
                 
                 {/* LOCKED OWNER SESSION BADGE */}

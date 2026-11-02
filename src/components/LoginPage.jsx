@@ -360,7 +360,7 @@ export default function LoginPage({ onLoginSuccess, onReplaySplash, currentLang 
           <div>
             <div className="flex items-center gap-2">
               <h1 className="text-[28px] font-extrabold text-[#062E38] tracking-tight leading-none">
-                Vyapar<span className="text-emerald-600 font-extrabold">Mitra</span>
+                Kamai<span className="text-emerald-600 font-extrabold">Mitra</span>
               </h1>
             </div>
             <p className="text-[14px] text-slate-500 font-normal mt-0.5">

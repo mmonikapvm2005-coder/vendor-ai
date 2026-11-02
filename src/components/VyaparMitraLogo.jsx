@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function VyaparMitraLogo({ 
+export default function KamaiMitraLogo({ 
   size = 'md', 
   showText = false, 
   variant = 'light', // 'light' (for white backgrounds) | 'dark' (for dark/teal backgrounds)
@@ -125,7 +125,7 @@ export default function VyaparMitraLogo({
             <span className={`text-[24px] sm:text-[28px] font-extrabold tracking-tight ${
               variant === 'dark' ? 'text-white' : 'text-[#062E38]'
             }`}>
-              Vyapar<span className="text-emerald-500 font-extrabold">Mitra</span>
+              Kamai<span className="text-emerald-500 font-extrabold">Mitra</span>
             </span>
           </div>
           <span className={`text-[12px] font-medium tracking-wide mt-0.5 ${

@@ -70,6 +70,19 @@ const CITY_CONFIG = {
     // Chennai 5–9% higher — South India logistics & warm climate spoilage premium
     priceMultiplier: 1.07,
     note: 'Koyambedu Wholesale Complex • 4:30 AM South India Auction Rates'
+  },
+  bangalore: {
+    id: 'bangalore',
+    name: 'Bangalore',
+    nameFull: 'Bangalore — Yeshwanthpur APMC & KR Market',
+    flag: '🌳',
+    activeClass: 'bg-purple-700 text-white shadow-sm',
+    inactiveClass: 'bg-slate-100 text-slate-600 border border-slate-200 hover:bg-purple-50 hover:border-purple-300 hover:text-purple-900',
+    bannerClass: 'bg-purple-50 border-purple-200',
+    badgeClass: 'bg-purple-100 text-purple-900 border-purple-200',
+    // Bangalore ~5% higher — South India tech hub with fresh Kolar/Hoskote farm auctions
+    priceMultiplier: 1.05,
+    note: 'Yeshwanthpur APMC & Kalasipalyam Market • 4:00 AM Karnataka Farm Auction Rates'
   }
 };
 

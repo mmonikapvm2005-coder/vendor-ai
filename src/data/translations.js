@@ -2,7 +2,7 @@
 
 export const TRANSLATIONS = {
   en: {
-    appName: "VyaparMitra",
+    appName: "KamaiMitra",
     tagline: "Smart Daily Profit & Expense Intelligence",
     langEn: "English",
     langHi: "हिन्दी",
@@ -28,7 +28,7 @@ export const TRANSLATIONS = {
     unregisteredPhone: "Access Denied! Mobile number does not match registered owner {owner} (+91 {phone}). Customers cannot access owner portal.",
     incorrectOtp: "Invalid OTP! Please enter the 6-digit OTP sent to your phone.",
     otpNotificationTitle: "SMS to +91 {phone}",
-    otpNotificationBody: "Your VyaparMitra Owner Security OTP is {otp}. Valid for 5 minutes. Do not share with anyone.",
+    otpNotificationBody: "Your KamaiMitra Owner Security OTP is {otp}. Valid for 5 minutes. Do not share with anyone.",
     multiOwnerSecurityTitle: "Multi-Owner Secure Access Control",
     multiOwnerSecurityDesc: "Each stall is locked to its registered owner via 10-Digit Mobile & SMS OTP. Customers cannot access owner ledgers.",
     fiveOwners: "3 Languages • 5 Independent Owners",
@@ -93,7 +93,7 @@ export const TRANSLATIONS = {
   },
 
   hi: {
-    appName: "व्यापारमित्र",
+    appName: "कमाईमित्र",
     tagline: "दैनिक मुनाफ़ा और खर्च का स्मार्ट हिसाब",
     langEn: "English",
     langHi: "हिन्दी",
@@ -119,7 +119,7 @@ export const TRANSLATIONS = {
     unregisteredPhone: "प्रवेश अस्वीकृत! यह नंबर पंजीकृत मालिक {owner} (+91 {phone}) का नहीं है। ग्राहक मालिक पोर्टल में नहीं जा सकते।",
     incorrectOtp: "गलत OTP! कृपया अपने फ़ोन पर आया 6 अंकों का OTP दर्ज करें।",
     otpNotificationTitle: "SMS संदेश: +91 {phone}",
-    otpNotificationBody: "आपका व्यापारमित्र मालिक सुरक्षा OTP {otp} है। यह 5 मिनट के लिए मान्य है। किसी के साथ साझा न करें।",
+    otpNotificationBody: "आपका कमाईमित्र मालिक सुरक्षा OTP {otp} है। यह 5 मिनट के लिए मान्य है। किसी के साथ साझा न करें।",
     multiOwnerSecurityTitle: "बहु-मालिक सुरक्षित प्रवेश नियंत्रण",
     multiOwnerSecurityDesc: "प्रत्येक स्टॉल केवल अपने पंजीकृत मालिक के 10-अंकीय मोबाइल और SMS OTP से सुरक्षित है। ग्राहक लेज़र नहीं देख सकते।",
     fiveOwners: "3 भाषाएं • 5 स्वतंत्र दुकानदार",
@@ -184,7 +184,7 @@ export const TRANSLATIONS = {
   },
 
   ta: {
-    appName: "வியாபார மித்ரா",
+    appName: "காமாய் மித்ரா",
     tagline: "தினசரி லாபம் மற்றும் செலவு நுண்ணறிவு",
     langEn: "English",
     langHi: "हिन्दी",
@@ -210,7 +210,7 @@ export const TRANSLATIONS = {
     unregisteredPhone: "அனுமதி மறுக்கப்பட்டது! இந்த எண் பதிவுசெய்யப்பட்ட உரிமையாளர் {owner} (+91 {phone}) உடையது அல்ல. வாடிக்கையாளர்கள் அணுக முடியாது.",
     incorrectOtp: "தவறான OTP! உங்கள் மொபைலுக்கு வந்த 6 இலக்க OTP-ஐ உள்ளிடவும்.",
     otpNotificationTitle: "SMS செய்தி: +91 {phone}",
-    otpNotificationBody: "உங்கள் வியாபார மித்ரா கடை உரிமையாளர் OTP: {otp}. 5 நிமிடங்கள் மட்டுமே செல்லுபடியாகும். யாரிடமும் பகிர வேண்டாம்.",
+    otpNotificationBody: "உங்கள் காமாய் மித்ரா கடை உரிமையாளர் OTP: {otp}. 5 நிமிடங்கள் மட்டுமே செல்லுபடியாகும். யாரிடமும் பகிர வேண்டாம்.",
     multiOwnerSecurityTitle: "பல உரிமையாளர் பாதுகாப்பு அணுகல்",
     multiOwnerSecurityDesc: "ஒவ்வொரு கடையும் 10 இலக்க மொபைல் மற்றும் SMS OTP மூலம் பாதுகாக்கப்படுகிறது. வாடிக்கையாளர்கள் கணக்கை அணுக முடியாது.",
     fiveOwners: "3 மொழிகள் • 5 தனித்தனி உரிமையாளர்கள்",
